@@ -1,2 +1,5 @@
-# access-simulation-python
-A Python terminal project simulating access messages with colorful animation. Learning project, completely safe
+
+# Terminal Access Simulation (Python)
+
+This project simulates access messages in the terminal with colorful animations using Python.  
+It is completely **safe and for learning purposes only**.
